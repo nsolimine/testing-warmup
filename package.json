@@ -1,0 +1,28 @@
+{
+  "name": "testing-warmup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercise.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsolimine/testing-warmup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsolimine/testing-warmup/issues"
+  },
+  "homepage": "https://github.com/nsolimine/testing-warmup#readme"
+}
